@@ -26,7 +26,7 @@
         <preference name="SplashScreen" value="splash" />
         <preference name="SplashScreenDelay" value="5000" />
         <!-- iOS * iOS * iOS -->
-        <preference name="auto-hide-splash-screen" value="false" />  <!-- iOS -->
+        <!--<preference name="auto-hide-splash-screen" value="false" />-->  <!-- iOS -->
         <preference name="show-splash-screen-spinner" value="false" />  <!-- iOS -->
 
         <!-- ANDROID * ANDROID * ANDROID -->
