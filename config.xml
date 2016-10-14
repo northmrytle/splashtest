@@ -6,7 +6,7 @@
         versionCode = "10" >
         <!-- versionCode is optional and Android only -->
         <!-- <preference name="phonegap-version" value="3.5.0" /> -->
-        <preference name="phonegap-version" value="cli-6.3.0" />
+        <preference name="phonegap-version" value="cli-5.4.1" />
 
         <name>Phonegap Splash Screen test</name>
         <description>Splash Screen and Icon test</description>
