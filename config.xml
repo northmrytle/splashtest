@@ -20,7 +20,8 @@
         <!-- PHONEGAP Master Example: https://github.com/phonegap/phonegap-start/blob/master/www/config.xml -->
         <!-- device required so we can detect if we are using iOS -->
         <plugin name="cordova-plugin-device"         source="npm" spec="1.0.1" />
-        <plugin name="cordova-plugin-splashscreen"   source="npm" spec="2.1.0" />
+        <!--<plugin name="cordova-plugin-splashscreen"   source="npm" spec="2.1.0" />-->
+        <plugin name="br.com.paveisitemas.splashscreen" />
 
         <!-- ANDROID * ANDROID * ANDROID -->
         <preference name="SplashScreen" value="splash" />
